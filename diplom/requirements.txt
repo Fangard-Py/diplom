@@ -1,0 +1,6 @@
+numpy == 2.0.2
+matplotlib == 3.10.0
+tensorflow == 2.18.0
+torch == 2.6.0
+torchvision == 0.21.0
+sklearn == 1.6.1
